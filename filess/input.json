@@ -1,0 +1,34 @@
+{
+  "cars": [
+    {
+      "Brand": "Tesla",
+      "Model": "X3",
+      "hp": 180,
+      "Price": 15000
+    },
+    {
+      "Brand": "Audi",
+      "Model": "A5",
+      "hp": 120,
+      "Price": 4900
+    },
+    {
+      "Brand": "BMW",
+      "Model": "M8",
+      "hp": 150,
+      "Price": 980
+    },
+    {
+      "Brand": "Dacia",
+      "Model": "Duster",
+      "hp": 70,
+      "Price": 700
+    },
+    {
+      "Brand": "Mercedes",
+      "Model": "Benz",
+      "hp": 220,
+      "Price": 25000
+    }
+  ]
+}
